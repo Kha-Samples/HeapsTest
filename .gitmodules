@@ -1,0 +1,8 @@
+[submodule "Kha"]
+	path = Kha
+	url = https://github.com/Kode/Kha.git
+	branch = master
+[submodule "Libraries/heaps"]
+	path = Libraries/heaps
+	url = https://github.com/HeapsIO/heaps.git
+	branch = master
