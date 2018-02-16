@@ -4,9 +4,9 @@
 	branch = master
 [submodule "Libraries/heaps"]
 	path = Libraries/heaps
-	url = https://github.com/HeapsIO/heaps.git
+	url = https://github.com/Kha-Samples/heaps.git
 	branch = master
 [submodule "Libraries/format"]
 	path = Libraries/format
-	url = https://github.com/HaxeFoundation/format.git
+	url = https://github.com/Kha-Samples/format.git
 	branch = master
